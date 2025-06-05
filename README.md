@@ -1,4 +1,12 @@
-## Hi there 👋
+##  ## 👋 Hi there, I'm Julia Kristine!
+
+🎓 A student of **Systems Analysis and Development**\
+💻 Passionate about technology, programming, and innovation\
+🌱 Currently learning more about **Mobile Development** and **Databases**\
+🚀 Looking for opportunities to grow as a **developer** and contribute to real-world projects\
+💡 I love turning ideas into practical and accessible solutions\
+📚 Always evolving — I enjoy learning and sharing knowledge!
+
 
 <div>
   <a href="https://github.com/JuliaKristine">
