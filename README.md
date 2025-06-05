@@ -1,4 +1,4 @@
-##  ## 👋 Hi there, I'm Julia Kristine!
+##👋 Hi there, I'm Julia Kristine!
 
 🎓 A student of **Systems Analysis and Development**\
 💻 Passionate about technology, programming, and innovation\
